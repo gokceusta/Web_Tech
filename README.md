@@ -13,7 +13,7 @@
 #### *Özgeçmiş Sayfası*->
 - Eğitim bilgilerini içerir (CV) (Samantic taglar kullanılmalı)
 
-#### *ŞehrimSayfası*->
+#### *Şehrim Sayfası*->
 - Tanıtılan şehre ait bilgiler içerir (gezilecek yerler, nüfus, fotoğraflar)
 - En az 4 resimli slider bulunur 
 - Sliderdaki fotoğraflara tıklanıldığında fotoğraflara ait linkler bulunur
